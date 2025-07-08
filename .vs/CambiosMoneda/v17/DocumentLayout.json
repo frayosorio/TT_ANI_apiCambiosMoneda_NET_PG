@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}|apiCambiosMoneda.Aplicacion\\apiCambiosMoneda.Aplicacion.csproj|d:\\catedra\\udea\\_talento tech\\curso arquitectura en la nube\\curso 2025-1\\ejercicios\\apicambiosmonedanet\\apicambiosmoneda.aplicacion\\servicios\\paisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}|apiCambiosMoneda.Aplicacion\\apiCambiosMoneda.Aplicacion.csproj|solutionrelative:apicambiosmoneda.aplicacion\\servicios\\paisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27DC0933-737A-4F9B-8BEB-528C1B64FF70}|apiCambiosMoneda.Test\\apiCambiosMoneda.Test.csproj|d:\\catedra\\udea\\_talento tech\\curso arquitectura en la nube\\curso 2025-1\\ejercicios\\apicambiosmonedanet\\apicambiosmoneda.test\\cambiomonedaserviciotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27DC0933-737A-4F9B-8BEB-528C1B64FF70}|apiCambiosMoneda.Test\\apiCambiosMoneda.Test.csproj|solutionrelative:apicambiosmoneda.test\\cambiomonedaserviciotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}|apiCambiosMoneda.Aplicacion\\apiCambiosMoneda.Aplicacion.csproj|d:\\catedra\\udea\\_talento tech\\curso arquitectura en la nube\\curso 2025-1\\ejercicios\\apicambiosmonedanet\\apicambiosmoneda.aplicacion\\servicios\\monedaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0FB3FA-B29D-4FE7-A046-BE876EEE45C0}|apiCambiosMoneda.Aplicacion\\apiCambiosMoneda.Aplicacion.csproj|solutionrelative:apicambiosmoneda.aplicacion\\servicios\\monedaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}|apiCambiosMoneda.Presentacion\\apiCambiosMoneda.Presentacion.csproj|d:\\catedra\\udea\\_talento tech\\curso arquitectura en la nube\\curso 2025-1\\ejercicios\\apicambiosmonedanet\\apicambiosmoneda.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,28 +35,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PaisServicio.cs",
+              "DocumentMoniker": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Aplicacion\\Servicios\\PaisServicio.cs",
+              "RelativeDocumentMoniker": "apiCambiosMoneda.Aplicacion\\Servicios\\PaisServicio.cs",
+              "ToolTip": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Aplicacion\\Servicios\\PaisServicio.cs",
+              "RelativeToolTip": "apiCambiosMoneda.Aplicacion\\Servicios\\PaisServicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:19:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonedaServicio.cs",
+              "DocumentMoniker": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Aplicacion\\Servicios\\MonedaServicio.cs",
+              "RelativeDocumentMoniker": "apiCambiosMoneda.Aplicacion\\Servicios\\MonedaServicio.cs",
+              "ToolTip": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Aplicacion\\Servicios\\MonedaServicio.cs",
+              "RelativeToolTip": "apiCambiosMoneda.Aplicacion\\Servicios\\MonedaServicio.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIAywFAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:14:30.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CambioMonedaServicioTests.cs",
               "DocumentMoniker": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Test\\CambioMonedaServicioTests.cs",
               "RelativeDocumentMoniker": "apiCambiosMoneda.Test\\CambioMonedaServicioTests.cs",
               "ToolTip": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Test\\CambioMonedaServicioTests.cs",
               "RelativeToolTip": "apiCambiosMoneda.Test\\CambioMonedaServicioTests.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T05:42:19.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Presentacion\\appsettings.json",
               "RelativeDocumentMoniker": "apiCambiosMoneda.Presentacion\\appsettings.json",
               "ToolTip": "D:\\Catedra\\UdeA\\_Talento Tech\\Curso Arquitectura en la Nube\\Curso 2025-1\\Ejercicios\\apiCambiosMonedaNET\\apiCambiosMoneda.Presentacion\\appsettings.json",
               "RelativeToolTip": "apiCambiosMoneda.Presentacion\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-04T04:25:09.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T04:25:09.99Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
